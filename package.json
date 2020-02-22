@@ -1,0 +1,40 @@
+{
+  "name": "cordova-plugin-cameraserver",
+  "version": "0.3.0",
+  "description": "CameraServer is a plugin providing Live Camera Pictures (JPEG) over HTTP",
+  "cordova": {
+    "id": "cordova-plugin-cameraserver",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sisrealtime/cordova-cameraserver.git"
+  },
+  "keywords": [
+    "camera",
+    "server",
+    "http",
+    "web",
+    "jpeg",
+    "ios",
+    "android",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=2.9"
+    }
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sisrealtime/cordova-cameraserver/issues"
+  },
+  "homepage": "https://github.com/sisrealtime/cordova-cameraserver#readme"
+}
